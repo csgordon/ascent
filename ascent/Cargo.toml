@@ -21,7 +21,7 @@ ascent_base = { workspace = true }
 rustc-hash = "1.1"
 hashbrown = {version = "0.14", features = ["raw", "rayon"]}
 instant = "0.1"
-dashmap = { version = "5.5", features = ["rayon", "raw-api"] }
+dashmap = { version = "6.10", features = ["rayon", "raw-api"] }
 rayon = "1.5"
 boxcar = "0.1.0"
 once_cell = "1.13.1"
